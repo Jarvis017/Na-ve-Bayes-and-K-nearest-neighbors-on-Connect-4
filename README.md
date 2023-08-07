@@ -8,4 +8,4 @@ In this project, the naive Bayes model was implemented using the scikit-learn li
 # Dataset
 
 Dataset Link :
-http://archive.ics.uci.edu/dataset/26/connect+4
+http://archive.ics.uci.edu/dataset/1/abalone
